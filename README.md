@@ -1,100 +1,118 @@
-\# 🌸 Tanushree Negi — Resume \& CSS Practice
+🌸 Tanushree Negi - Resume
 
 
 
-My personal resume built with \*\*semantic HTML\*\* and styled with \*\*CSS\*\*, created as part of my Full Stack Development internship (Git \& GitHub learning journey).
+A personal resume website built using semantic HTML5 tags — no <div> soup, fully structured with semantic elements like <aside>, <main>, <section>, <article>, <figure>, <details>, <dl>, and <address>.
 
 
 
-\## 🌐 Live Resume
+🔗 Live Demo
 
 
 
-👉 \*\*\[View Live Resume](https://tanushreenegi-dev.github.io/resume/)\*\*
+👉 https://tanushreenegi-dev.github.io/resume/
 
 
 
-\## 📁 Repository Structure
+📁 About This Project
 
 
 
-```
+This repository is part of my Industry-Oriented Full Stack Development internship. It contains my personal resume, my CSS learnings written in my own words, and small practice projects built to understand core CSS concepts like selectors, layout, and hover states.
 
-resume/
 
-&#x20; index.html
 
-&#x20; style.css
+🛠️ Built With
 
-&#x20; learnings/
 
-&#x20;   css/        → CSS concepts written in my own words
 
-&#x20; projects/
 
-&#x20;   profile-card/
 
-&#x20;   navbar/
+Semantic HTML5 — figure, aside, details/summary, form, dl, address, hgroup
 
-&#x20;   buttons/
+CSS3 — external stylesheet only, no inline or presentational attributes
 
-```
+Git \& GitHub — all changes committed and pushed via terminal
 
+GitHub Pages — for live hosting
 
 
-\## 🎨 Practice Projects
 
 
 
-Small CSS exercises built to practice selectors, layout, and hover states:
+📓 Learnings
 
 
 
-| Project | Live Link |
 
-|---|---|
 
-| Profile Card | \[View](https://tanushreenegi-dev.github.io/resume/projects/profile-card/) |
+CSS Notes (Day 4) — selectors, the box model, ways to add CSS, browser DevTools, and file paths, explained in my own words.
 
-| Navigation Bar | \[View](https://tanushreenegi-dev.github.io/resume/projects/navbar/) |
 
-| Button Collection | \[View](https://tanushreenegi-dev.github.io/resume/projects/buttons/) |
 
 
 
-\## 📝 Learnings
+🎨 Practice Projects
 
 
 
-\- \[CSS Learnings (Day 4)](https://github.com/TANUSHREENEGI-DEV/resume/tree/main/learnings/css) — what I learned about selectors, the box model, ways to add CSS, and more, written in my own words.
+ProjectDescriptionLive Link👤 Profile CardPhoto, name, short bio, and a styled buttonView🧭 NavbarHorizontal navigation menu with hover effectsView🔘 ButtonsFour button styles — Solid, Outline, Pill, Accent — with hover statesView
 
 
 
-\## 🛠️ Built With
+🧩 CodePen Practice
 
 
 
-\- Semantic HTML5 (no `<div>`/`<span>` soup — using `figure`, `aside`, `details`, `form`, `dl`, etc.)
 
-\- CSS3 (external stylesheet only — no inline or presentational attributes)
 
-\- Git \& GitHub (all changes committed via terminal)
+CSS Selectors Demo — quick practice with element, class, and ID selectors.
 
-\- GitHub Pages (for live hosting)
 
 
 
-\## 🔗 Other Links
 
+✅ Revisions
 
 
-\- \[CodePen Practice — CSS Selectors Demo](https://codepen.io/editor/TANUSHREENEGI-DEV/pen/019f135a-ea09-7303-b153-c0d1190fc0cd)
 
 
 
-\---
+Replaced <table> elements (Education, Languages) with semantic <dl> lists, per feedback.
 
+Removed presentational HTML attributes (border, cellpadding, width) — all styling now lives in style.css.
 
 
-\*Made with 🌸 as part of my internship learning journey.\*
+
+
+
+📬 Contact
+
+
+
+
+
+Email: tanushreenegi1@gmail.com
+
+GitHub: @TANUSHREENEGI-DEV
+
+LinkedIn: Tanushree Negi
+
+
+
+
+
+
+
+Made with 🌸 as part of my internship learning journey.
+
+Contentpdf# 🌸 CSS Learnings – Day 4
+
+
+
+\## Introduction
+
+
+
+Today I learned the basics of CSS (Cascading Style Sheets). HTML is used to create the structure of a webpage, while CSS is used to make it look attractive. CSS helps us add colors, fonts, spacing, borders, backgrounds, and proper layouts. Without CSS, wepasted
 
