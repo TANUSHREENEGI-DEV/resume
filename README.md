@@ -106,13 +106,5 @@ LinkedIn: Tanushree Negi
 
 Made with 🌸 as part of my internship learning journey.
 
-Contentpdf# 🌸 CSS Learnings – Day 4
 
-
-
-\## Introduction
-
-
-
-Today I learned the basics of CSS (Cascading Style Sheets). HTML is used to create the structure of a webpage, while CSS is used to make it look attractive. CSS helps us add colors, fonts, spacing, borders, backgrounds, and proper layouts. Without CSS, wepasted
 
