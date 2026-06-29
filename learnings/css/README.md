@@ -19,3 +19,7 @@ Using Chrome DevTools (right-click → Inspect), I could open the **Elements** t
 
 ## File paths
 CSS files need the correct path to load properly — using `./` or just the filename (like `style.css`) when the CSS file sits in the same folder as the HTML file.
+
+## CodePen Examples
+
+- [CSS Selectors Demo](https://codepen.io/editor/TANUSHREENEGI-DEV/pen/019f135a-ea09-7303-b153-c0d1190fc0cd)
