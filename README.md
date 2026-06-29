@@ -78,7 +78,7 @@ CSS Selectors Demo — quick practice with element, class, and ID selectors.
 
 
 
-Replaced <table> elements (Education, Languages) with semantic <dl> lists, per feedback.
+Replaced table elements (Education, Languages) with semantic dl lists, per feedback.
 
 Removed presentational HTML attributes (border, cellpadding, width) — all styling now lives in style.css.
 
@@ -105,6 +105,4 @@ LinkedIn: Tanushree Negi
 
 
 Made with 🌸 as part of my internship learning journey.
-
-
 
