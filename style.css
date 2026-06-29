@@ -181,3 +181,37 @@ footer {
   padding: 20px 0;
   color: #a6486e;
 }
+
+s/* Education & Languages — definition lists */
+.education-entry,
+.language-entry {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 8px;
+  padding: 10px 0;
+  border-bottom: 1px solid #ddd;
+}
+
+.education-entry dt,
+.language-entry dt {
+  font-weight: 600;
+  flex: 1 1 60%;
+}
+
+.education-entry dd,
+.language-entry dd {
+  margin: 0;
+  color: #555;
+}
+
+.education-entry .meta {
+  font-weight: 500;
+  color: #b8853a;
+}
+
+.education-list,
+.language-list {
+  margin: 0;
+  padding: 0;
+}
