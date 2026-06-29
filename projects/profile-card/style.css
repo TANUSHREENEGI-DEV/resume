@@ -1,0 +1,68 @@
+body {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  background-color: #fdf2f6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.card {
+  background-color: #ffffff;
+  border-radius: 12px;
+  text-align: center;
+  padding: 0 24px 24px 24px;
+  width: 260px;
+  box-shadow: 0 4px 12px rgba(166, 72, 110, 0.15);
+  overflow: hidden;
+}
+
+.card::before {
+  content: "";
+  display: block;
+  height: 70px;
+  background-color: #8c2f4a;
+  margin: 0 -24px 0 -24px;
+}
+
+.avatar {
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  border: 4px solid #ffffff;
+  margin-top: -45px;
+  object-fit: cover;
+}
+
+.card h2 {
+  margin: 12px 0 2px;
+  color: #2b2b2b;
+}
+
+.role {
+  color: #888;
+  margin: 0 0 12px;
+  font-size: 0.9rem;
+}
+
+.bio {
+  color: #555;
+  font-size: 0.85rem;
+  line-height: 1.4;
+}
+
+.contact-btn {
+  background-color: #d6713f;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 20px;
+  margin-top: 12px;
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+
+.contact-btn:hover {
+  background-color: #b85a30;
+}

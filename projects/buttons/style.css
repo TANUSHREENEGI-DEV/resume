@@ -1,0 +1,74 @@
+body {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  background-color: #fdf2f6;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.button-row {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.btn {
+  padding: 12px 26px;
+  font-size: 0.95rem;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.2s, color 0.2s;
+}
+
+/* Solid button */
+.solid {
+  background-color: #8c2f4a;
+  color: white;
+  border-radius: 6px;
+}
+.solid:hover {
+  background-color: #6f2439;
+}
+
+/* Outline button */
+.outline {
+  background-color: transparent;
+  color: #8c2f4a;
+  border: 2px solid #8c2f4a;
+  border-radius: 6px;
+}
+.outline:hover {
+  background-color: #8c2f4a;
+  color: white;
+}
+
+/* Pill button */
+.pill {
+  background-color: #d6713f;
+  color: white;
+  border-radius: 999px;
+}
+.pill:hover {
+  background-color: #b85a30;
+}
+
+/* Accent button */
+.accent {
+  background-color: #e8b84b;
+  color: #3a1f27;
+  border-radius: 6px;
+  font-weight: bold;
+}
+.accent:hover {
+  background-color: #cf9f35;
+}
+
+.hint {
+  margin-top: 24px;
+  color: #888;
+  font-size: 0.85rem;
+}
