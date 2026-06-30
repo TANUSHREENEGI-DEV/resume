@@ -2,7 +2,7 @@
 
 
 
-A personal resume website built using semantic HTML5 tags — no \&lt;div\&gt; soup, fully structured with semantic elements like \&lt;aside\&gt;, \&lt;main\&gt;, \&lt;section\&gt;, \&lt;article\&gt;, \&lt;figure\&gt;, \&lt;details\&gt;, \&lt;dl\&gt;, and \&lt;address\&gt;.
+A personal resume website built using semantic HTML5 tags — no div soup, fully structured with semantic elements like aside, main, section, article, figure, details, dl, and address.
 
 
 
@@ -10,7 +10,7 @@ A personal resume website built using semantic HTML5 tags — no \&lt;div\&gt; s
 
 
 
-👉 \[https://tanushreenegi-dev.github.io/resume/](https://tanushreenegi-dev.github.io/resume/)
+👉 https://tanushreenegi-dev.github.io/resume/
 
 
 
@@ -26,13 +26,13 @@ This repository is part of my Industry-Oriented Full Stack Development internshi
 
 
 
-\- \*\*Semantic HTML5\*\* — figure, aside, details/summary, form, dl, address, hgroup
+\- Semantic HTML5 — figure, aside, details/summary, form, dl, address, hgroup
 
-\- \*\*CSS3\*\* — external stylesheet only, no inline or presentational attributes
+\- CSS3 — external stylesheet only, no inline or presentational attributes
 
-\- \*\*Git \& GitHub\*\* — all changes committed and pushed via terminal
+\- Git \& GitHub — all changes committed and pushed via terminal
 
-\- \*\*GitHub Pages\*\* — for live hosting
+\- GitHub Pages — for live hosting
 
 
 
@@ -40,7 +40,9 @@ This repository is part of my Industry-Oriented Full Stack Development internshi
 
 
 
-\- \[CSS Notes (Day 4)](https://github.com/TANUSHREENEGI-DEV/resume/tree/main/learnings/css) — selectors, the box model, ways to add CSS, browser DevTools, and file paths, explained in my own words.
+\- CSS Notes (Day 4): https://github.com/TANUSHREENEGI-DEV/resume/tree/main/learnings/css
+
+&#x20; Selectors, the box model, ways to add CSS, browser DevTools, and file paths, explained in my own words.
 
 
 
@@ -48,15 +50,21 @@ This repository is part of my Industry-Oriented Full Stack Development internshi
 
 
 
-| Project | Description | Live Link |
+\- 👤 Profile Card — photo, name, short bio, and a styled button
 
-|---|---|---|
+&#x20; https://tanushreenegi-dev.github.io/resume/projects/profile-card/
 
-| 👤 Profile Card | Photo, name, short bio, and a styled button | \[View](https://tanushreenegi-dev.github.io/resume/projects/profile-card/) |
 
-| 🧭 Navbar | Horizontal navigation menu with hover effects | \[View](https://tanushreenegi-dev.github.io/resume/projects/navbar/) |
 
-| 🔘 Buttons | Four button styles — Solid, Outline, Pill, Accent — with hover states | \[View](https://tanushreenegi-dev.github.io/resume/projects/buttons/) |
+\- 🧭 Navbar — horizontal navigation menu with hover effects
+
+&#x20; https://tanushreenegi-dev.github.io/resume/projects/navbar/
+
+
+
+\- 🔘 Buttons — four button styles (Solid, Outline, Pill, Accent) with hover states
+
+&#x20; https://tanushreenegi-dev.github.io/resume/projects/buttons/
 
 
 
@@ -64,7 +72,9 @@ This repository is part of my Industry-Oriented Full Stack Development internshi
 
 
 
-\- \[CSS Selectors Demo](https://codepen.io/editor/TANUSHREENEGI-DEV/pen/019f135a-ea09-7303-b153-c0d1190fc0cd) — quick practice with element, class, and ID selectors.
+\- CSS Selectors Demo — quick practice with element, class, and ID selectors
+
+&#x20; https://codepen.io/editor/TANUSHREENEGI-DEV/pen/019f135a-ea09-7303-b153-c0d1190fc0cd
 
 
 
@@ -82,11 +92,11 @@ This repository is part of my Industry-Oriented Full Stack Development internshi
 
 
 
-\- Email: \[tanushreenegi1@gmail.com](mailto:tanushreenegi1@gmail.com)
+\- Email: tanushreenegi1@gmail.com
 
-\- GitHub: \[@TANUSHREENEGI-DEV](https://github.com/TANUSHREENEGI-DEV)
+\- GitHub: https://github.com/TANUSHREENEGI-DEV
 
-\- LinkedIn: \[Tanushree Negi](https://www.linkedin.com/in/tanushree-negi-36230741a)
+\- LinkedIn: https://www.linkedin.com/in/tanushree-negi-36230741a
 
 
 
@@ -94,5 +104,5 @@ This repository is part of my Industry-Oriented Full Stack Development internshi
 
 
 
-\*Made with 🌸 as part of my internship learning journey.\*
+Made with 🌸 as part of my internship learning journey.
 
