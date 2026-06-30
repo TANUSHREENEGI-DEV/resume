@@ -1,4 +1,4 @@
-\# 🌸 Tanushree Negi - Resume
+🌸 Tanushree Negi - Resume
 
 
 
@@ -6,7 +6,7 @@ A personal resume website built using semantic HTML5 tags — no div soup, fully
 
 
 
-\## 🔗 Live Demo
+🔗 Live Demo
 
 
 
@@ -14,7 +14,7 @@ A personal resume website built using semantic HTML5 tags — no div soup, fully
 
 
 
-\## 📁 About This Project
+📁 About This Project
 
 
 
@@ -22,85 +22,103 @@ This repository is part of my Industry-Oriented Full Stack Development internshi
 
 
 
-\## 🛠️ Built With
+🛠️ Built With
 
 
 
-\- Semantic HTML5 — figure, aside, details/summary, form, dl, address, hgroup
-
-\- CSS3 — external stylesheet only, no inline or presentational attributes
-
-\- Git \& GitHub — all changes committed and pushed via terminal
-
-\- GitHub Pages — for live hosting
 
 
+Semantic HTML5 — figure, aside, details/summary, form, dl, address, hgroup
 
-\## 📓 Learnings
+CSS3 — external stylesheet only, no inline or presentational attributes
+
+Git \& GitHub — all changes committed and pushed via terminal
+
+GitHub Pages — for live hosting
 
 
 
-\- CSS Notes (Day 4): https://github.com/TANUSHREENEGI-DEV/resume/tree/main/learnings/css
-
-&#x20; Selectors, the box model, ways to add CSS, browser DevTools, and file paths, explained in my own words.
 
 
-
-\## 🎨 Practice Projects
+📓 Learnings
 
 
 
-\- 👤 Profile Card — photo, name, short bio, and a styled button
-
-&#x20; https://tanushreenegi-dev.github.io/resume/projects/profile-card/
 
 
+CSS Notes (Day 4): https://github.com/TANUSHREENEGI-DEV/resume/tree/main/learnings/css
 
-\- 🧭 Navbar — horizontal navigation menu with hover effects
-
-&#x20; https://tanushreenegi-dev.github.io/resume/projects/navbar/
+Selectors, the box model, ways to add CSS, browser DevTools, and file paths, explained in my own words.
 
 
 
-\- 🔘 Buttons — four button styles (Solid, Outline, Pill, Accent) with hover states
-
-&#x20; https://tanushreenegi-dev.github.io/resume/projects/buttons/
 
 
-
-\## 🧩 CodePen Practice
+🎨 Practice Projects
 
 
 
-\- CSS Selectors Demo — quick practice with element, class, and ID selectors
-
-&#x20; https://codepen.io/editor/TANUSHREENEGI-DEV/pen/019f135a-ea09-7303-b153-c0d1190fc0cd
 
 
+👤 Profile Card — photo, name, short bio, and a styled button
 
-\## ✅ Revisions
+https://tanushreenegi-dev.github.io/resume/projects/profile-card/
 
+🧭 Navbar — horizontal navigation menu with hover effects
 
+https://tanushreenegi-dev.github.io/resume/projects/navbar/
 
-\- Replaced table elements (Education, Languages) with semantic dl lists, per feedback.
+🔘 Buttons — four button styles (Solid, Outline, Pill, Accent) with hover states
 
-\- Removed presentational HTML attributes (border, cellpadding, width) — all styling now lives in style.css.
-
-
-
-\## 📬 Contact
+https://tanushreenegi-dev.github.io/resume/projects/buttons/
 
 
 
-\- Email: tanushreenegi1@gmail.com
 
-\- GitHub: https://github.com/TANUSHREENEGI-DEV
 
-\- LinkedIn: https://www.linkedin.com/in/tanushree-negi-36230741a
+🧩 CodePen Practice
 
 
 
-\---
+
+
+CSS Selectors Demo — quick practice with element, class, and ID selectors
+
+https://codepen.io/editor/TANUSHREENEGI-DEV/pen/019f135a-ea09-7303-b153-c0d1190fc0cd
+
+
+
+
+
+✅ Revisions
+
+
+
+
+
+Replaced table elements (Education, Languages) with semantic dl lists, per feedback.
+
+Removed presentational HTML attributes (border, cellpadding, width) — all styling now lives in style.css.
+
+
+
+
+
+📬 Contact
+
+
+
+
+
+Email: tanushreenegi1@gmail.com
+
+GitHub: https://github.com/TANUSHREENEGI-DEV
+
+LinkedIn: https://www.linkedin.com/in/tanushree-negi-36230741a
+
+
+
+
 
 
 
