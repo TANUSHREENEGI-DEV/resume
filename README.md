@@ -120,6 +120,9 @@ The revamp includes:
 
 This folder represents the improved version of the resume after applying instructor feedback.
 
+🌐 Live
+
+https://tanushreenegi-dev.github.io/resume/revamp/
 ---
 
 # 📓 CSS Learnings
