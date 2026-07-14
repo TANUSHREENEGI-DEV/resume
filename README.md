@@ -1,126 +1,226 @@
-🌸 Tanushree Negi - Resume
+# 🌸 Tanushree Negi - Resume
 
+A personal resume website built using **Semantic HTML5** and **CSS3** as part of my Industry-Oriented Full Stack Development Internship.
 
+This project demonstrates the use of semantic HTML elements, responsive CSS, Git & GitHub workflow, and clean project organization. Along with the resume, this repository also contains my CSS learning notes and small practice projects completed during the internship.
 
-A personal resume website built using semantic HTML5 tags — no div soup, fully structured with semantic elements like aside, main, section, article, figure, details, dl, and address.
+---
 
-
-
-🔗 Live Demo
-
-
+# 🔗 Live Demo
 
 👉 https://tanushreenegi-dev.github.io/resume/
 
+---
 
+# 📖 About This Project
 
-📁 About This Project
+The goal of this project was to build a resume website using semantic HTML5 while following modern web development practices.
 
+Throughout the internship, I continuously improved this project based on instructor feedback by refining the HTML structure, improving CSS organization, documenting my learnings, and maintaining a clean GitHub repository.
 
+This repository includes:
 
-This repository is part of my Industry-Oriented Full Stack Development internship. It contains my personal resume, my CSS learnings written in my own words, and small practice projects built to understand core CSS concepts like selectors, layout, and hover states.
+- Personal Resume Website
+- Day 4 CSS Learning Notes
+- CSS Practice Projects
+- Day 5 Semantic HTML Revamp
+- GitHub Pages Deployment
 
+---
 
+# ✨ Features
 
-🛠️ Built With
+- Semantic HTML5 structure
+- Responsive layout
+- External CSS only
+- Clean and organized project structure
+- GitHub Pages deployment
+- Accessible HTML elements
+- CSS learning documentation
+- CSS practice projects
 
+---
 
+# 🛠️ Technologies Used
 
+- HTML5
+- CSS3
+- Git
+- GitHub
+- GitHub Pages
 
+---
 
-Semantic HTML5 — figure, aside, details/summary, form, dl, address, hgroup
+# 🧱 Semantic HTML Elements Used
 
-CSS3 — external stylesheet only, no inline or presentational attributes
+This project makes use of semantic HTML elements instead of relying on unnecessary markup.
 
-Git \& GitHub — all changes committed and pushed via terminal
+Semantic elements used include:
 
-GitHub Pages — for live hosting
+- `header`
+- `nav`
+- `main`
+- `section`
+- `article`
+- `aside`
+- `figure`
+- `figcaption`
+- `details`
+- `summary`
+- `address`
+- `dl`
+- `dt`
+- `dd`
+- `footer`
+- `form`
+- `hgroup`
 
+These elements improve accessibility, document structure, readability, and maintainability.
 
+---
 
+# 📂 Project Structure
 
+```text
+resume/
+│
+├── index.html
+├── style.css
+├── README.md
+│
+├── assets/
+│
+├── learnings/
+│   └── css/
+│
+├── projects/
+│   ├── buttons/
+│   ├── navbar/
+│   └── profile-card/
+│
+└── revamp/
+    ├── index.html
+    └── style.css
+```
 
-📓 Learnings
+---
 
+# 🌱 Day 5 Revamp
 
+As part of the Day 5 assignment, I created a separate **revamp** folder containing an improved version of my resume.
 
+The revamp includes:
 
+- Better semantic HTML structure
+- Improved accessibility
+- Cleaner document hierarchy
+- Responsive layout
+- Proper use of HTML5 semantic elements
+- Better project organization
 
-CSS Notes (Day 4): https://github.com/TANUSHREENEGI-DEV/resume/tree/main/learnings/css
+This folder represents the improved version of the resume after applying instructor feedback.
 
-Selectors, the box model, ways to add CSS, browser DevTools, and file paths, explained in my own words.
+---
 
+# 📓 CSS Learnings
 
+During the internship, I documented my CSS learnings in my own words.
 
+Topics covered include:
 
+- CSS Selectors
+- Box Model
+- Ways to Apply CSS
+- CSS Specificity
+- Browser Developer Tools
+- Relative vs Absolute Paths
+- External Stylesheets
+- CSS Best Practices
 
-🎨 Practice Projects
+📂 CSS Notes
 
+https://github.com/TANUSHREENEGI-DEV/resume/tree/main/learnings/css
 
+---
 
+# 🎨 Practice Projects
 
+## 👤 Profile Card
 
-👤 Profile Card — photo, name, short bio, and a styled button
+A simple profile card demonstrating typography, spacing, layout, and button styling.
+
+🌐 Live
 
 https://tanushreenegi-dev.github.io/resume/projects/profile-card/
 
-🧭 Navbar — horizontal navigation menu with hover effects
+---
+
+## 🧭 Navigation Bar
+
+A horizontal navigation menu built using HTML and CSS with hover effects.
+
+🌐 Live
 
 https://tanushreenegi-dev.github.io/resume/projects/navbar/
 
-🔘 Buttons — four button styles (Solid, Outline, Pill, Accent) with hover states
+---
+
+## 🔘 Buttons
+
+A collection of reusable button styles including:
+
+- Solid Button
+- Outline Button
+- Pill Button
+- Accent Button
+
+Each button includes hover effects and consistent styling.
+
+🌐 Live
 
 https://tanushreenegi-dev.github.io/resume/projects/buttons/
 
+---
 
+# 🧩 CodePen Practice
 
+A small CSS selectors practice project demonstrating:
 
-
-🧩 CodePen Practice
-
-
-
-
-
-CSS Selectors Demo — quick practice with element, class, and ID selectors
+- Element Selectors
+- Class Selectors
+- ID Selectors
+- CSS Priority
 
 https://codepen.io/editor/TANUSHREENEGI-DEV/pen/019f135a-ea09-7303-b153-c0d1190fc0cd
 
+---
 
+# 🔄 Improvements Made
 
+Based on instructor feedback, I made several improvements throughout this project.
 
+### HTML
 
-✅ Revisions
+- Improved semantic HTML structure.
+- Replaced non-semantic layouts where appropriate.
+- Improved accessibility.
+- Organized content using HTML5 semantic elements.
 
+### CSS
 
+- Kept all styling in external CSS files.
+- Improved spacing and layout.
+- Added responsive design.
+- Improved consistency and maintainability.
 
+### Project
 
+- Organized folder structure.
+- Added CSS practice projects.
+- Added learning notes.
+- Added the **revamp** folder for the Day 5 assignment.
+- Improved project documentation.
 
-Replaced table elements (Education, Languages) with semantic dl lists, per feedback.
+---
 
-Removed presentational HTML attributes (border, cellpadding, width) — all styling now lives in style.css.
-
-
-
-
-
-📬 Contact
-
-
-
-
-
-Email: tanushreenegi1@gmail.com
-
-GitHub: https://github.com/TANUSHREENEGI-DEV
-
-LinkedIn: https://www.linkedin.com/in/tanushree-negi-36230741a
-
-
-
-
-
-
-
-Made with 🌸 as part of my internship learning journey.
-
+Thank you for visiting this repository! 🌸
