@@ -1,0 +1,121 @@
+:root {
+  --primary: #7b3f9e;
+  --accent: #ff8fb1;
+  --text: #2b2b2b;
+  --muted: #6b6b6b;
+  --bg: #fdfbff;
+  --card-bg: #ffffff;
+  --border: #e6dcf0;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  font-family: "Segoe UI", Roboto, Arial, sans-serif;
+  color: var(--text);
+  background: var(--bg);
+  margin: 0;
+  line-height: 1.6;
+}
+
+header {
+  text-align: center;
+  padding: 40px 20px 20px;
+  background: linear-gradient(135deg, var(--primary), var(--accent));
+  color: #fff;
+}
+
+header img {
+  border-radius: 50%;
+  border: 3px solid #fff;
+}
+
+header figcaption { margin-top: 8px; font-style: italic; }
+
+header a { color: #fff; text-decoration: underline; }
+
+nav {
+  text-align: center;
+  padding: 14px;
+  background: #fff;
+  border-bottom: 1px solid var(--border);
+  position: sticky;
+  top: 0;
+}
+
+nav a {
+  color: var(--primary);
+  text-decoration: none;
+  margin: 0 6px;
+  font-weight: 600;
+}
+
+nav a:hover { text-decoration: underline; }
+
+aside {
+  max-width: 700px;
+  margin: 24px auto;
+  padding: 16px 20px;
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 20px 40px;
+}
+
+section {
+  margin-bottom: 32px;
+  padding: 20px;
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+}
+
+section section {
+  border: none;
+  padding: 10px 0;
+  background: transparent;
+}
+
+h1 { margin: 10px 0 4px; }
+h2 { font-weight: 400; margin: 0; font-size: 1.05rem; }
+h3 { color: var(--primary); border-bottom: 2px solid var(--accent); padding-bottom: 6px; }
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+th, td {
+  border: 1px solid var(--border);
+  padding: 8px;
+  text-align: left;
+}
+
+th { background: #f6effa; }
+
+article {
+  margin-bottom: 18px;
+  padding-bottom: 12px;
+  border-bottom: 1px dashed var(--border);
+}
+
+article:last-child { border-bottom: none; }
+
+mark { background: var(--accent); color: #fff; padding: 0 4px; border-radius: 3px; }
+
+details summary { cursor: pointer; font-weight: 600; color: var(--primary); }
+
+footer {
+  text-align: center;
+  padding: 24px;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+footer a { color: var(--primary); }
