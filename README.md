@@ -102,7 +102,7 @@ resume/
     ├── index.html
     └── style.css
 ```
-
+> **Note:** The `revamp` folder contains the improved semantic HTML version of the resume created as part of the Day 5 assignment after applying instructor feedback.
 ---
 
 # 🌱 Day 5 Revamp
