@@ -91,12 +91,12 @@ resume/
 ├── assets/
 │
 ├── learnings/
-│   └── css/
+│   └── css
 │
 ├── projects/
-│   ├── buttons/
-│   ├── navbar/
-│   └── profile-card/
+│   ├── buttons
+│   ├── navbar
+│   └── profile-card
 │
 └── revamp/
     ├── index.html
