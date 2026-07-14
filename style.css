@@ -215,3 +215,31 @@ s/* Education & Languages — definition lists */
   margin: 0;
   padding: 0;
 }
+
+/* Education & Languages - clean list layout */
+.education-list,
+.language-list {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  row-gap: 6px;
+  column-gap: 16px;
+  margin: 0;
+}
+
+.education-list dt,
+.language-list dt {
+  font-weight: 600;
+  grid-column: 1;
+}
+
+.education-list dd,
+.language-list dd {
+  margin: 0;
+  grid-column: 2;
+  color: #6b7280;
+}
+
+.education-list dd.meta,
+.language-list dd.meta {
+  font-style: italic;
+}
