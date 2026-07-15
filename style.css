@@ -243,3 +243,7 @@ s/* Education & Languages — definition lists */
 .language-list dd.meta {
   font-style: italic;
 }
+
+.centered {
+  text-align: center;
+}
