@@ -12,7 +12,7 @@ This project demonstrates the use of semantic HTML elements, responsive CSS, Git
 
 ---
 
-# 📖 About This Project
+# About This Project
 
 The goal of this project was to build a resume website using semantic HTML5 while following modern web development practices.
 
@@ -51,7 +51,7 @@ This repository includes:
 
 ---
 
-# 🧱 Semantic HTML Elements Used
+#  Semantic HTML Elements Used
 
 This project makes use of semantic HTML elements instead of relying on unnecessary markup.
 
@@ -125,7 +125,7 @@ This folder represents the improved version of the resume after applying instruc
 https://tanushreenegi-dev.github.io/resume/revamp/
 ---
 
-# 📓 CSS Learnings
+#  CSS Learnings
 
 During the internship, I documented my CSS learnings in my own words.
 
@@ -140,15 +140,15 @@ Topics covered include:
 - External Stylesheets
 - CSS Best Practices
 
-📂 CSS Notes
+ CSS Notes
 
 https://github.com/TANUSHREENEGI-DEV/resume/tree/main/learnings/css
 
 ---
 
-# 🎨 Practice Projects
+# Practice Projects
 
-## 👤 Profile Card
+##  Profile Card
 
 A simple profile card demonstrating typography, spacing, layout, and button styling.
 
@@ -158,7 +158,7 @@ https://tanushreenegi-dev.github.io/resume/projects/profile-card/
 
 ---
 
-## 🧭 Navigation Bar
+##  Navigation Bar
 
 A horizontal navigation menu built using HTML and CSS with hover effects.
 
@@ -168,7 +168,7 @@ https://tanushreenegi-dev.github.io/resume/projects/navbar/
 
 ---
 
-## 🔘 Buttons
+##  Buttons
 
 A collection of reusable button styles including:
 
@@ -198,7 +198,7 @@ https://codepen.io/editor/TANUSHREENEGI-DEV/pen/019f135a-ea09-7303-b153-c0d1190f
 
 ---
 
-# 🔄 Improvements Made
+#  Improvements Made
 
 Based on instructor feedback, I made several improvements throughout this project.
 
@@ -225,5 +225,3 @@ Based on instructor feedback, I made several improvements throughout this projec
 - Improved project documentation.
 
 ---
-
-Thank you for visiting this repository! 🌸
